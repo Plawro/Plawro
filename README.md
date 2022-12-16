@@ -9,5 +9,4 @@
 
 <!---
 Plawro is ✨ special ✨ because his `README.md` appears on his GitHub profile.
-You can click the Preview link to take a look hard d.
 --->
