@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning coding ig
 - 💞️ I’m looking to collaborate on massive destruction
 - 📫 How to reach me - you need a long arm
+- (Kind of) experienced in working with Unity, web making
+- simplifying projects
+- I like scary stuff m8
 
 <!---
-Plawro/Plawro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Plawro is ✨ special ✨ because its `README.md` appears on his GitHub profile.
+You can click the Preview link to take a look hard d.
 --->
