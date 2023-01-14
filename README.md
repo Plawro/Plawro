@@ -1,8 +1,8 @@
 Hello, I’m @Plawro
 
-🟣»(Kind of) experienced in working with Unity, web making, VS forms apps, CMD scripting, AI image making
+🟣»(Kind of) experienced in working with Unity, web making, VS forms apps, CMD scripting, AI image making, Roblox development and other...
 
-🔵»Simplifying and optimizing projects
+🔵»Simplifying and optimizing projects - more FPS, more fun
 
 🔴»I like scary stuff m8
 
