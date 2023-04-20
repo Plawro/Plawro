@@ -15,7 +15,7 @@ Hello, I’m @Plawro
 # How my version numbering works
 R = Release, E = Remake, B = Beta, A = Alpha <br>
 V* = Version <br>
-Example: R1V1 = Release version 1, version 1 (or 1.0)
+Example: R1V1 = Release version 1, version 1 (or 1.1)
 
 <!---
 Plawro is ✨ special ✨ because his `README.md` appears on his GitHub profile.
