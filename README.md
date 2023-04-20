@@ -10,6 +10,11 @@ Hello, I’m @Plawro
 
 🔴»I like scary stuff m8
 
+# How my version numbering works
+R = Release, E = Remake, B = Beta, A = Alpha
+V* = Version
+Example: R1V1 = Release version 1, version 1 (or 1.0)
+
 - 🌱 I’m currently learning coding ig
 
 <!---
