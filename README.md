@@ -13,7 +13,7 @@ Hello, I’m @Plawro
 - 🌱 I’m currently learning coding ig
 <br><br><br>
 # How my version numbering works
-R = Release, E = Remake, B = Beta, A = Alpha <br>
+R = Release, E = Remake, P = Prerelease, B = Beta, A = Alpha <br>
 V* = Version <br>
 Example: R1V1 = Release version 1, version 1 (or from other developers v1.1)
 
