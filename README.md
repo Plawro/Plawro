@@ -16,7 +16,7 @@ Hello, I’m @Plawro
 
 🔵»Favorite color: purple, smh I like rain and the smell of fresh night air
 
-🟢»Other hobbies: Arduino, 3D printing, art, design, stories, prototyping and making projects,
+🟢»Other hobbies: Arduino, 3D printing, art, design, stories, prototyping and making projects
 
 - 🌱 I’m currently learning coding ig
 <br><br><br>
