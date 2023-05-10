@@ -1,5 +1,6 @@
 Hello, I’m @Plawro
 
+## Dev:
 🟢»For some time I am already working with Unity
 
 🟣»Experienced in working with HTML, CSS, CMD scripting, AI image making,...
@@ -8,7 +9,14 @@ Hello, I’m @Plawro
 
 🔵»Simplifying and optimizing projects - more FPS, more fun
 
+## Me:
 🔴»I like scary stuff m8
+
+🟠»Also I really like sakuras, nature, technology, slightly airsoft, music (mostly Phonk or Dubstep tho), dreamcore
+
+🟡»Favorite color: purple, smh I like rain and the smell of fresh night air
+
+🟤»Other hobbies: Arduino, 3D printing, art, design, stories, prototyping and making projects,
 
 - 🌱 I’m currently learning coding ig
 <br><br><br>
