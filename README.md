@@ -1,22 +1,24 @@
 Hello, I’m @Plawro
 
 ## Dev:
-🔴»For some time I am already working with Unity
+🔴 » Advanced beginner with Unity (& C#)
 
-🟠»Experienced in working with HTML, CSS, CMD scripting, AI image making,...
+🟠 » Experienced in working with HTML, CSS, CMD scripting, ...
 
-🟡»Others that I tried: VS forms apps, Roblox development and some other game engines...
+🟡 » Others that I tried: VS forms apps, Roblox Studio and some other game engines...
 
-🟤»Simplifying and optimizing projects - more FPS, more fun
+🟤 » Simple NOR Simplifying projects - more FPS, more fun
 
 ## Me:
-🔴»I like scary stuff m8
+🔴 » I like scary stuff m8
 
-🟣»Also I really like sakuras, nature, technology, slightly airsoft, music (mostly Phonk or Dubstep tho), dreamcore
+🟣 » Favorite color: purple
 
-🔵»Favorite color: purple, smh I like rain and the smell of fresh night air
+🔵 » Fav. Music: Phonk & DnB
 
-🟢»Other hobbies: Arduino, 3D printing, art, design, stories, prototyping and making projects
+⚪ » Smh I like rain and the smell of fresh night air, dreamcore
+
+🟢 » Other hobbies: Arduino, 3D printing, art, design, stories, prototyping and making projects
 
 - 🌱 I’m currently learning coding ig
 <br><br><br>
